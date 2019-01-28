@@ -1,0 +1,19 @@
+.form-control {
+    background-color: rgb(232, 232, 232);
+    border-color: gray;
+}
+
+h4 {
+ color: black;   
+}
+
+button:hover {
+    background-color: black;
+}
+
+
+button {
+    color: white;
+    background-color: rgb(49, 48, 48);
+}
+

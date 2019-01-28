@@ -1,0 +1,7 @@
+.navbar {
+  border-radius: 0;
+  background-color: black;
+  border-block-end-style: dashed;
+  border-block-end-color: gray;
+  border-block-end-width: 0.25em;
+}
